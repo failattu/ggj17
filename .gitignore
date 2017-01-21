@@ -1,1 +1,6 @@
 bin/
+pkg/
+src/engo.io/
+src/github.com/engoengine/
+src/github.com/go-gl/
+
