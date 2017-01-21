@@ -3,4 +3,5 @@ pkg/
 src/engo.io/
 src/github.com/engoengine/
 src/github.com/go-gl/
-
+src/github.com/golang/
+src/golang.org/
